@@ -1,0 +1,60 @@
+#container{
+    margin: auto auto;
+    padding:130px;
+    padding-right:100px;
+    width: 600px;
+}
+body{
+    margin: 0px;
+    width: 1365px;
+    height: 750px;
+}
+.formControl {
+    width: 64px;
+    height:32px;
+    font-size:20px;
+}
+.butn{
+    height:32px;
+    font-size:20px;
+}
+#data_matome{
+    width: 100%;
+    height: 100%;
+    color: #000;
+    font-size: 25px;
+
+}
+
+h1{
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 10px;
+    height: 130px;
+    font-size: 90px;
+    text-align: center;
+}
+#primeNumber{
+    width: 100%;
+    height: 100%;
+    color: #000;
+    font-size: 25px;
+}
+h3{
+    padding: 0px;
+    margin : 5px;
+    font-size: 22px;
+}
+#button {
+    background-image: url("./image/hatena.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+}
+#action-div {
+    float:right;
+    display: flex;
+}
